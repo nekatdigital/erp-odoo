@@ -1,0 +1,23 @@
+Product Name,Category,Type,Price (IDR),Cost (IDR),Barcode,UoM,Stock Quantity,Min Stock,Notes
+Teh Botol 500ml,Minuman,Storable,5000,2500,,Unit,25,10,Minuman kemasan
+Teh Botol 1L,Minuman,Storable,9000,4000,,Unit,15,5,Minuman kemasan
+Larutan Jamu,Minuman,Storable,3000,1200,,Unit,30,15,Minuman tradisional
+Kopi Nescafe,Minuman,Storable,15000,8000,,Unit,20,10,Kopi sachet
+Nasi Goreng,Makanan,Storable,15000,6000,,Pcs,10,5,Makanan siap saji
+Nasi Kuning,Makanan,Storable,12000,4500,,Pcs,8,3,Makanan siap saji
+Bakso,Makanan,Storable,12000,5000,,Porsi,12,5,Makanan siap saji
+Lumpia,Makanan,Storable,2000,800,,Pcs,40,20,Makanan ringan
+Perkedel,Makanan,Storable,1500,600,,Pcs,50,25,Makanan ringan
+Rokok Sampoerna,Rokok,Storable,30000,25000,,Bungkus,50,20,Rokok filter
+Rokok Catur,Rokok,Storable,28000,23000,,Bungkus,45,20,Rokok filter
+Rokok Marlboro,Rokok,Storable,32000,27000,,Bungkus,40,15,Rokok filter
+Gula 1kg,Kebutuhan,Storable,12000,8000,,Kg,15,5,Bahan dapur
+Minyak Goreng 2L,Kebutuhan,Storable,25000,18000,,Botol,8,3,Bahan dapur
+Garam 250gr,Kebutuhan,Storable,3000,1500,,Pcs,20,10,Bumbu masak
+Cabe Rawit (100gr),Kebutuhan,Storable,5000,2500,,Pcs,15,5,Bumbu masak
+Baterai AA,Elektronik,Storable,8000,4000,,Pcs,30,10,Elektronik
+Baterai AAA,Elektronik,Storable,5000,2500,,Pcs,25,10,Elektronik
+Kartu Memori 32GB,Elektronik,Storable,45000,25000,,Pcs,5,2,Elektronik
+Pulpen Biru,Alat Tulis,Storable,2000,1000,,Pcs,50,20,Alat tulis
+Buku Tulis,Alat Tulis,Storable,8000,4000,,Pcs,20,10,Alat tulis
+Pensil HB,Alat Tulis,Storable,2500,1200,,Pcs,40,20,Alat tulis

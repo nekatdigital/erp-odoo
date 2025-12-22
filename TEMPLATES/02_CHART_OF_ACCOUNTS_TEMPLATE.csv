@@ -1,0 +1,31 @@
+Account Code,Account Name,Account Type,Description
+100001,Cash,Bank,Kas di tangan
+100002,Bank BCA,Bank,Rekening Bank BCA
+100003,Inventory,Asset,Nilai stok barang
+100004,Furniture & Fixtures,Asset,Peralatan toko
+100005,Accumulated Depreciation,Asset,Depresiasi peralatan
+200001,Accounts Payable - Suppliers,Liability,Hutang ke supplier
+200002,Payable - Tax,Liability,Hutang pajak
+200003,Short-term Loan,Liability,Pinjaman jangka pendek
+300001,Owner's Capital,Equity,Modal pemilik
+300002,Retained Earnings,Equity,Laba ditahan
+400001,Sales Revenue - Food,Income,Penjualan makanan
+400002,Sales Revenue - Beverages,Income,Penjualan minuman
+400003,Sales Revenue - Tobacco,Income,Penjualan rokok
+400004,Sales Revenue - Supplies,Income,Penjualan kebutuhan sehari-hari
+400005,Sales Revenue - Electronics,Income,Penjualan elektronik
+500001,COGS - Food,Cost of Goods,Harga pokok makanan
+500002,COGS - Beverages,Cost of Goods,Harga pokok minuman
+500003,COGS - Tobacco,Cost of Goods,Harga pokok rokok
+500004,COGS - Supplies,Cost of Goods,Harga pokok kebutuhan
+600001,Salary Expense,Expense,Biaya gaji karyawan
+600002,Electricity Expense,Expense,Biaya listrik
+600003,Water Expense,Expense,Biaya air
+600004,Internet Expense,Expense,Biaya internet
+600005,Rent Expense,Expense,Biaya sewa toko
+600006,Phone Expense,Expense,Biaya telepon
+600007,Equipment Maintenance,Expense,Biaya perawatan peralatan
+600008,Office Supplies,Expense,Biaya alat tulis kantor
+600009,Miscellaneous Expense,Expense,Biaya lain-lain
+700001,Bank Fees,Expense,Biaya bank
+700002,Interest Expense,Expense,Biaya bunga
